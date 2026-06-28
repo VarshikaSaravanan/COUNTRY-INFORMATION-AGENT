@@ -1,4 +1,4 @@
-# 🌍 Country Information Agent
+# Country Information Agent
 
 A Streamlit-based AI agent that answers questions about countries and fetches real-time data using the [REST Countries API](https://restcountries.com/). It uses OpenRouter to interface with LLMs and dynamically call tools to provide accurate and up-to-date information.
 <img width="662" height="673" alt="image" src="https://github.com/user-attachments/assets/25e9bb46-69a5-4a5b-854d-57df4b4ced35" />
